@@ -29,8 +29,6 @@ class Store {
         return this.getNotes().then((notes) => [...notes, newNote]).then((freshNote)=> this.write(freshNote)).then(()=> newNote)
     }
     deleteNote(noteId) {
-        console.log(this.getNotes());
-        console.log(noteId);
         return this.getNotes().then((notes) => notes.filter(note => note.id != noteId)).then((freshNote)=> this.write(freshNote)).then(()=> newNote)
 
     }
