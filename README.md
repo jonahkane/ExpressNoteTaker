@@ -17,7 +17,7 @@ This is an application called Note Taker that can be used to write and save note
 
 ## Installation
 
-no - this is a deployed application. no installation required.
+This is a deployed application. no installation required. Simply visit the app at the deployed website: https://jonahs-express-note-taker.herokuapp.com/
 
 ## Usage
 
