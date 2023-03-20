@@ -25,7 +25,10 @@ To use this application visit the deployed website URL and click the button to "
 
 ---
 
-here is a great place for you to upload screen shots or even a screen record of your application. But remember to delete this line of text first
+![Main page view](Develop/public/assets/images/MAIN%20VIEW.png)
+![View of notes page](Develop/public/assets/images/NOTES%20PAGE.png)
+![New note demo](Develop/public/assets/images/new%20note.png)
+![Saved new note](Develop/public/assets/images/saved%20new%20note.png)
 
 ---
 
